@@ -24,20 +24,6 @@ npx tailwindcss init
 ```
 
 Ik had in eerste instantie nog Statamic in deze nuxt directory geinstalleerd in een map genaamd arodo-cms. Heb het uiteindelijk verwijderd omdat ik het idee had dat het niet correct was. Onderstaand de commands die ik had uitgevoerd. Voor nu ga ik even aan de slag met Nuxtjs & Tailwind. Zal eerst proberen de homepage statisch op te zetten met Nuxt & Tailwindcss. Dat is voor nu al een mooi leerdoel denk ik.
-Vervolgens heb ik in dezelfde Nuxt directory Statamic geinstalleerd.
-
-Eerst statamic CLI mbv:
-```
-composer global require statamic/cli
-```
-
-
-Vervolgens Statamic geinstalleerd in arodo-cms met:
-```
-statamic new arodo-cms
-```
-
-
 
 
 ## Build Setup
